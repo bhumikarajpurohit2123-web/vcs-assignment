@@ -1,0 +1,5 @@
+print("# What I Learned About Git and GitHub")
+print("- Git helps track changes in project files.")
+print("- Branches allow developers to work on features separately.")
+print("- Commits record changes in Git history.")
+print("- GitHub provides a platform for hosting and collaborating on Git repositories.")
